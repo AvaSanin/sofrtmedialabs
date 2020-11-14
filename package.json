@@ -1,6 +1,6 @@
 {
-  "name": "redux-app",
-  "version": "0.1.0",
+  "name": "softmedialab-test",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.2.5",
